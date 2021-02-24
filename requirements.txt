@@ -1,5 +1,0 @@
-opencv_python==4.5.1.48
-altair==4.1.0
-streamlit==0.76.0
-numpy==1.20.1
-Pillow==8.1.0
