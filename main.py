@@ -4,9 +4,6 @@ import streamlit as st
 from PIL import Image
 import altair as alt
 import base64
-import matplotlib 
-import matplotlib.pyplot as plt
-import matplotlib.image as mpimg
 st.header("Web App for Image Processing")
 
 
