@@ -12,5 +12,6 @@ Fig 2 : streamlit file uploader to upload images.
 
 ![Untitled111](https://user-images.githubusercontent.com/32899884/108945766-3829f800-7683-11eb-88c8-eb559b96b6ec.png)
 Fig 3 : streamlit slider to change RGB value ranging from 0 to 255.
- 
+
+![screeen3](https://user-images.githubusercontent.com/32899884/108945759-35c79e00-7683-11eb-9c38-cebe4b813c9f.jpg)
 Fig 4 : slider to select different threshold value ranging from 10 to 100.
