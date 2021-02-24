@@ -9,7 +9,8 @@ Streamlit is powerful and yet simple platform to develop a python-based apps. In
 
 ![screeen2](https://user-images.githubusercontent.com/32899884/108945748-3102ea00-7683-11eb-8e02-1493f927ee3c.jpg)
 Fig 2 : streamlit file uploader to upload images.
- 
+
+![Untitled111](https://user-images.githubusercontent.com/32899884/108945766-3829f800-7683-11eb-88c8-eb559b96b6ec.png)
 Fig 3 : streamlit slider to change RGB value ranging from 0 to 255.
  
 Fig 4 : slider to select different threshold value ranging from 10 to 100.
