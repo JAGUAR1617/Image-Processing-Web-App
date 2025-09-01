@@ -1,7 +1,8 @@
-imageio==2.9.0
-numpy==1.18.5
+imageio
+numpy
 opencv-python-headless
 
-Pillow==7.2.0
-pipreqs==0.4.10
-streamlit==0.76.0
+Pillow
+pipreqs
+streamlit
+
